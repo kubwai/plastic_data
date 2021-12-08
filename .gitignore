@@ -2,3 +2,4 @@
 /train
 /valid
 /best.pt
+/mask_rcnn.pth

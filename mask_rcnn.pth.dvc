@@ -1,0 +1,4 @@
+outs:
+- md5: a0098730b6efb2e71867294aca5a1770
+  size: 351405247
+  path: mask_rcnn.pth
